@@ -5,7 +5,7 @@ We introduce physics informed neural networks – neural networks that are train
 ## Technologies Used
 - A list of technologies, libraries, and frameworks used in the project.
   - [Python](https://www.python.org/)
-  - [Plotly](https://dash.plotly.com/)
+  - [DeepXDE](https://deepxde.readthedocs.io/en/latest/)
   - [Tensorflow]()
 
 ## Author
